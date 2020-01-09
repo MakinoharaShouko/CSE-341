@@ -1,0 +1,2 @@
+Press 'i' to increase the speed of the falling block
+Press 'x' to change the color of the falling block (useless feature)
